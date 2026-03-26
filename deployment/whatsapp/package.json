@@ -1,0 +1,13 @@
+{
+  "name": "farmgemma-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Business API bot for FarmGemma",
+  "main": "bot.py",
+  "dependencies": {
+    "flask": "^3.0.0",
+    "twilio": "^9.0.0",
+    "transformers": "^4.40.0",
+    "torch": "^2.2.0",
+    "google-generativeai": "^0.3.0"
+  }
+}
